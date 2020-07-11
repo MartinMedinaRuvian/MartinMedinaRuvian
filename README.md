@@ -1,3 +1,4 @@
-## 😄 Hola! mi me es Martin, 
+## Hola! soy Martin Ruvian 😄 
 ### Desarrollador de software independiente ⚡
+### Java y Javascript 🚀
 
